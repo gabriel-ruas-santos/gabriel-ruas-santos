@@ -26,12 +26,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" height="36"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="36"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="36"/>
+  <br>
 </p>
 
 ## 📊 Statísticas do GitHub
 
 <!-- Substitua 'gabrielruassantos' pelo seu usuário do GitHub, caso seja diferente -->
-<br>
 <div>
    <a href="https://github.com/gabriel-ruas-santos">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriel-ruas-santos&show_icons=true&theme=transparent"/>
