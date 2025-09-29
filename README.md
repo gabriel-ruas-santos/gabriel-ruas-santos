@@ -8,7 +8,7 @@
   </a>
 </p>
 
-## ⚙️ Tecnologias & Ferramentas
+## ⚙️ Tecnologias que utilizo
 
 <!-- Ícones via devicon: https://github.com/devicons/devicon -->
 <p align="left">
@@ -28,10 +28,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="36"/>
 </p>
 
-## 📊 GitHub Status
+## 📊 Statísticas do GitHub
 
 <!-- Substitua 'gabrielruassantos' pelo seu usuário do GitHub, caso seja diferente -->
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gabriel-ruas-santos&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats de Gabriel" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-ruas-santos&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs de Gabriel" height="150" />
 </div>
