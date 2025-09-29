@@ -38,7 +38,7 @@
 
 <!-- Opcional: streak stats -->
 <div align="left">
-  <img src="https://streak-stats.demolab.com?user=gabrielruassantos&theme=tokyonight&hide_border=true" alt="GitHub Streak de Gabriel" height="150" />
+  <img src="https://streak-stats.demolab.com?user=gabriel-ruas-santos&theme=tokyonight&hide_border=true" alt="GitHub Streak de Gabriel" height="150" />
 </div>
 
 ## 📫 Onde me encontrar
