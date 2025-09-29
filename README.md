@@ -31,9 +31,10 @@
 ## 📊 Statísticas do GitHub
 
 <!-- Substitua 'gabrielruassantos' pelo seu usuário do GitHub, caso seja diferente -->
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabriel-ruas-santos&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats de Gabriel" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-ruas-santos&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs de Gabriel" height="150" />
+<div>
+   <a href="https://github.com/gabriel-ruas-santos">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriel-ruas-santos&show_icons=true&theme=transparent"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-ruas-santos&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 
 ## 📫 Onde me encontrar
