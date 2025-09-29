@@ -32,7 +32,6 @@
 
 <!-- Substitua 'gabrielruassantos' pelo seu usuário do GitHub, caso seja diferente -->
 <br>
-<br>
 <div>
    <a href="https://github.com/gabriel-ruas-santos">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriel-ruas-santos&show_icons=true&theme=transparent"/>
