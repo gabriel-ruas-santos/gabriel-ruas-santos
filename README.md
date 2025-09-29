@@ -38,7 +38,7 @@
 
 ## 📫 Onde me encontrar
 
-- [LinkedIn] (https://www.linkedin.com/in/gabriel-ruas-santos)
+- LinkedIn: [Link](https://www.linkedin.com/in/gabriel-ruas-santos)
 - E-mail: gabrielruass@protonmail.com
 
 ---
