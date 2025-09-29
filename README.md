@@ -32,8 +32,8 @@
 
 <!-- Substitua 'gabrielruassantos' pelo seu usuário do GitHub, caso seja diferente -->
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabrielruassantos&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats de Gabriel" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielruassantos&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs de Gabriel" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gabriel-ruas-santos&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats de Gabriel" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-ruas-santos&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs de Gabriel" height="150" />
 </div>
 
 <!-- Opcional: streak stats -->
@@ -44,8 +44,8 @@
 ## 📫 Onde me encontrar
 
 - LinkedIn: [gabriel-ruas-santos](https://www.linkedin.com/in/gabriel-ruas-santos)
-- E-mail: gabrielruassantos@gmail.com
+- E-mail: gabrielruass@protonmail.com
 
 ---
 
-> Sempre aberto a colaborar em projetos Open Source e a trocar ideias sobre tecnologia, jogos e cultura japonesa. Vamos conversar! 🚀
+> Sempre aberto a colaborar em projetos Open Source e a trocar ideias sobre tecnologia e jogos. Vamos conversar! 🚀
