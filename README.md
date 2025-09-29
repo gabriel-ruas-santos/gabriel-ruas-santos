@@ -36,11 +36,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-ruas-santos&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs de Gabriel" height="150" />
 </div>
 
-<!-- Opcional: streak stats -->
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=gabriel-ruas-santos&theme=tokyonight&hide_border=true" alt="GitHub Streak de Gabriel" height="150" />
-</div>
-
 ## 📫 Onde me encontrar
 
 - LinkedIn: [gabriel-ruas-santos](https://www.linkedin.com/in/gabriel-ruas-santos)
