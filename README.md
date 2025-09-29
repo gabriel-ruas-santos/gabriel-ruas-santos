@@ -1,6 +1,6 @@
 # Olá! Sou o Gabriel
 
-*Desenvolvedor apaixonado por tecnologia, games e cultura japonesa.*
+*Desenvolvedor apaixonado por tecnologia, games e produção musical.*
 
 <p align="left">
   <a href="https://www.linkedin.com/in/gabriel-ruas-santos" target="_blank">
@@ -44,5 +44,4 @@
 - E-mail: gabrielruass@protonmail.com
 
 ---
-
-> Sempre aberto a colaborar em projetos Open Source e a trocar ideias sobre tecnologia e jogos. Vamos conversar! 🚀
+Sempre aberto a colaborar em projetos Open Source e a trocar ideias sobre tecnologia, jogos e música. Vamos conversar! 🚀
