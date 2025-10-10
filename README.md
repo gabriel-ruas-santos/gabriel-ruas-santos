@@ -29,7 +29,7 @@
   <br>
 </p>
 
-## 📊 Statísticas do GitHub
+## 📊 Estatísticas do GitHub
 
 <!-- Substitua 'gabrielruassantos' pelo seu usuário do GitHub, caso seja diferente -->
 <div>
