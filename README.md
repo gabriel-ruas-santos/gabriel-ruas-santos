@@ -8,7 +8,7 @@
   </a>
 </p>
 
-## ⚙️ Minhas Tecnologias
+## ⚙️ Minhas Stacks:
 
 <!-- Ícones via devicon: https://github.com/devicons/devicon -->
 <p align="left">
